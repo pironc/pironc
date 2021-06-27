@@ -1,6 +1,6 @@
 ## hello world  
   
-My name's Cyprien, I'm 20 and I'm a student software engineer at Epitech Nantes  
+My name's Cyprien, I'm 20 and I'm a student developer at Epitech Nantes  
   
 I mainly code in C for my studies,  
 
