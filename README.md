@@ -1,6 +1,6 @@
 ## hello world  
   
-I'm Cyprien, 22 years old and I'm a student developer at Epitech Barcelona  
+I'm Cyprien, 23 years old and I'm a student developer at Epitech Barcelona  
   
 I mainly code in C and C++ for my studies, then :  
 
