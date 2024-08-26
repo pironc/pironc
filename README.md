@@ -1,6 +1,6 @@
 ## hello world  
-  
-Cyprien - 23  
+
+I'm Cyprien, 23 years old
 Student @ Epitech Barcelona  
 Almuni @ McGill University  
 
