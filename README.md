@@ -1,7 +1,10 @@
 ## hello world  
   
-I'm Cyprien, 23 years old and I'm a 5th year Student Developer at Epitech Barcelona  
+Cyprien - 23
+Student @ Epitech Barcelona  
+Almuni @ McGill University  
 
+  
 Main languages / tools I use :  
   
 C / C++    - First languages, CSFML games, understanding key concepts of CS  
